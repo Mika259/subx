@@ -10,7 +10,7 @@ Subdomain finder python tool
 - main2.py [tool]
 
 ```bash
-python main2.py <example.com> <worlist.txt>
+python main2.py example.com worlist.txt
 ```
 
 # Usage
